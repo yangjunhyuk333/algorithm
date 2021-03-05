@@ -1,2 +1,3 @@
-﻿  firstDay.cpp
+﻿  secondDay.cpp
+C:\Users\cucun\Desktop\project\CodingTest\algorithm\20210225\firstDay\firstDay\secondDay.cpp(17,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   firstDay.vcxproj -> C:\Users\cucun\Desktop\project\CodingTest\algorithm\20210225\firstDay\Debug\firstDay.exe

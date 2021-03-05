@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main() {
+int main_first() {
     
     //워밍업 - 아스키 코드
     /*char input = ' ';
@@ -23,14 +23,6 @@ int main() {
     }
 
     cout << result;*/
-
-    //워밍업 - 알파벳 찾기
-    char input = ' ';
-
-    cin >> input;
-
-
-
 
     return 0;
 }
